@@ -48,3 +48,7 @@ desktop.ini
 logs/
 downloads/
 screenshots/
+# NONU local secrets
+config/api_keys.json
+config/certs/
+!.env.example
